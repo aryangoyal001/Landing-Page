@@ -21,7 +21,11 @@ This landing page includes:
 - A **footer**
 
 ---
+## Demo
 
+Check out the live demo [here](https://aryangoyal001.github.io/Landing-Page/).
+
+---
 ## Technologies Used
 
 - HTML5  
@@ -43,7 +47,11 @@ This landing page includes:
 _Web Development Intern at @ CodSoft_
 
 ---
+## Contact
 
+For any inquiries or suggestions, please contact at [aryangoyal2352007@gmail.com].
+
+---
 ### Tags
 
 `#codsoft` `#webdevelopment` `#internship`
